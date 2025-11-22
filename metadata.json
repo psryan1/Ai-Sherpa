@@ -1,0 +1,7 @@
+{
+  "name": "AI Sherpa",
+  "description": "A gamified guide to mastering Gemini and NotebookLM, climbing the mountain of AI knowledge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
